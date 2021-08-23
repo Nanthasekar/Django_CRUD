@@ -1,0 +1,5 @@
+Django==3.2.4
+django-tastypie==0.14.3
+djangorestframework==3.12.4
+djangorestframework-simplejwt==4.7.1
+
